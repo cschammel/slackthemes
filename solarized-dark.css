@@ -1,4 +1,4 @@
-@-moz-document regexp("https://[^./]*\\.slack\\.com/(?!pricing)(?!security).*") { body { background: #002b36; color: #a1adad; }
+body { background: #002b36; color: #a1adad; }
   a { color: #268bd2; }
   a:link, a:visited { color: #268bd2; }
   a:hover, a:active, a:focus { color: #dc322f; }
@@ -2033,4 +2033,4 @@
   .para_menu .options a.active span { filter: grayscale(2) brightness(2); }
   .para_menu .options a span { filter: grayscale(2) brightness(5); }
   .para_menu a.trigger.pilcrow { filter: grayscale(2) brightness(1.8); }
-  .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); } }
+  .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); }
